@@ -1,4 +1,4 @@
-Chapter 10: Ethics and Responsibility in Effective Learning: Balancing individual and collective responsibility
+Ethics and Responsibility in Effective Learning: Balancing individual and collective responsibility
 ---------------------------------------------------------------------------------------------------------------
 
 Effective learning involves more than just acquiring knowledge and skills. It also requires a sense of ethics and responsibility towards oneself and others. In this chapter, we will explore the importance of balancing individual and collective responsibility in effective learning.
