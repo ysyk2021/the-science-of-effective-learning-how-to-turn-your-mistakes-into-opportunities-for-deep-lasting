@@ -31,5 +31,3 @@ We will delve into concepts such as metacognition, self-reflection, and delibera
 In the following chapters, we will delve deeper into the various aspects of effective learning and examine how we can harness the power of mistakes for transformative change. Each chapter will focus on a specific topic, providing practical tips, real-life examples, and actionable steps to facilitate effective learning and personal growth.
 
 It is my hope that by the end of this book, you will have gained valuable insights into the science of effective learning and be equipped with the tools necessary to turn your mistakes into opportunities for deep, lasting change. Let's embark on this journey together and unlock our full potential through the art of effective learning.
-
-*Note: This book focuses solely on the process of effective learning and does not address any political, territorial, or human rights issues.*
