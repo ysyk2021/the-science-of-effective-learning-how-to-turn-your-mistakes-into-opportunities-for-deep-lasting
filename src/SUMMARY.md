@@ -29,7 +29,5 @@
 - [Chapter 10: Ethics and Responsibility in Effective Learning](chapter-10.md)
   - [Addressing ethical considerations in effective learning](chapter-10-1.md)
   - [Balancing individual and collective responsibility](chapter-10-2.md)
-- [Chapter 11: Conclusion](chapter-11.md)
-  - [The future of effective learning and its potential impact on personal and professional growth](chapter-11-1.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
