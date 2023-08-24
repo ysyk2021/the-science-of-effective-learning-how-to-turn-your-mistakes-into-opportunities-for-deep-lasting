@@ -1,5 +1,3 @@
-Chapter 2: Understanding Effective Learning
-===========================================
 
 Effective learning is the process of acquiring knowledge and skills in a way that maximizes retention, comprehension, and application. In this chapter, we will define effective learning, explore its importance in personal and professional contexts, and identify factors that influence effective learning.
 

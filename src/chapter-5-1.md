@@ -1,5 +1,3 @@
-Techniques for Using Active Recall and Spaced Repetition to Enhance Learning Retention
-=================================================================================================
 
 In this chapter, we will explore specific techniques for leveraging active recall and spaced repetition to enhance learning retention. Active recall involves actively retrieving information from memory, while spaced repetition optimizes memory retention by strategically reviewing information at increasing intervals over time. By incorporating these techniques into your study routine, you can improve comprehension, reinforce knowledge, and foster deeper, lasting learning.
 

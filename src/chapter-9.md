@@ -1,5 +1,3 @@
-Chapter 9: Measuring and Evaluating Effective Learning Success
-==============================================================
 
 Effective learning is a continuous process that requires monitoring and evaluation to ensure success. In this chapter, we will explore how to define metrics and key performance indicators (KPIs) for measuring effective learning success, as well as tracking progress and evaluating impact.
 

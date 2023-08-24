@@ -1,5 +1,3 @@
-Using Apps and Other Tools for Active Recall, Spaced Repetition, and More
-====================================================================================
 
 In this chapter, we will explore the valuable role of apps and other tools in promoting effective learning through active recall, spaced repetition, and other techniques. These innovative tools leverage technology to enhance memory retention, promote deeper understanding, and facilitate long-lasting change. We will discuss various applications, websites, and software that can be utilized for active recall, spaced repetition, note-taking, and more.
 

@@ -1,5 +1,3 @@
-Chapter 5: Using Active Recall and Spaced Repetition
-====================================================
 
 In the previous chapter, we discussed the importance of retrieval practice for effective learning. In this chapter, we will focus on two specific techniques that leverage retrieval practice: active recall and spaced repetition.
 

@@ -1,5 +1,3 @@
-Leveraging Partnerships and Networks to Achieve Collective Learning Success
-============================================================================================================================
 
 Collaboration is a powerful tool for effective learning. Working with others can help us gain new perspectives, share knowledge and skills, and achieve collective learning success. In this chapter, we will explore strategies for leveraging partnerships and networks to achieve collective learning success.
 

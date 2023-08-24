@@ -1,5 +1,3 @@
-Chapter 3: Embracing the Growth Mindset
-=======================================
 
 In this chapter, we will explore the importance of embracing a growth mindset in fostering effective learning. We will discuss techniques for adopting a growth mindset, overcoming fixed-mindset thinking, and addressing self-doubt. By cultivating a growth mindset, individuals can maximize their learning potential and turn mistakes into opportunities for deep, lasting change.
 

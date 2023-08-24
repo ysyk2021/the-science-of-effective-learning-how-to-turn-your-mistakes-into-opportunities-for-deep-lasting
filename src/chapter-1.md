@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Why Effective Learning is Important and How to Turn Mistakes into Opportunities for Deep, Lasting Change
 --------------------------------------------------------------------------------------------------------

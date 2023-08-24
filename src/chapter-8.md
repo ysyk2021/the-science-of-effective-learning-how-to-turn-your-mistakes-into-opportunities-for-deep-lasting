@@ -1,5 +1,3 @@
-Chapter 8: Collaborating for Effective Learning
-===============================================
 
 Collaboration is a powerful tool for effective learning. Working with others can help us gain new perspectives, share knowledge and skills, and achieve collective learning success. In this chapter, we will explore the benefits of collaboration in fostering effective learning and strategies for leveraging partnerships and networks.
 
