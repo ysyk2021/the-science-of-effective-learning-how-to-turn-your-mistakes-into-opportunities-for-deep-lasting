@@ -6,3 +6,7 @@ This book explores techniques for turning mistakes into opportunities for growth
 Whether you are a student, a professional, or someone seeking personal development, The Science of Effective Learning provides practical tools and actionable advice to help you learn more effectively, retain information better, and apply what you learn in your daily life. With this book as your guide, you can turn your mistakes into opportunities for deep, lasting change and achieve your desired level of success.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
