@@ -1,5 +1,4 @@
-Chapter: Balancing Individual and Collective Responsibility
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the concept of balancing individual and collective responsibility in the context of effective learning. We delve into the importance of taking ownership of one's own learning journey while also recognizing the value of collaboration and shared responsibility. By understanding how to strike a balance between these two aspects, individuals can maximize their learning potential and contribute to a supportive learning community.
 
